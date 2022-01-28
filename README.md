@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vikash Kumar
-- 🌱 I’m currently learning Fullstack development
-- 💞️ I’m looking to collaborate on Fullstack development
-- 📫 How to reach me www.linkedin.com/in/vikash-kumar-828633191
+- 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at Frontier.
+- 📫 How to reach me www.linkedin.com/in/vikash-kumar-828633191 
 
 
 <!---

@@ -18,5 +18,7 @@ or give some ♥ on [mail](mailto:vikash810917@gmail.com)
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cryptologos.cc/logos/uniswap-uni-logo.svg?v=023" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcdnlogo.com%2Flogo%2Fnext-js_21574.html&psig=AOvVaw1UTwxP3kHm2xFsPTbhp5Bh&ust=1685538448731000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDK-5aOnf8CFQAAAAAdAAAAABAD" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" style="padding-right:10px;" />
+
 

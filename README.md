@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h3>Welcome to my page!</h3>
 
-- 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at Frontier.
+- 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at calsoft.
 - 🌱 I’m currently exploring web3 and blockchain
 - 👬 I’m looking to collaborate on frontend development
 - ⚡ Fun fact: I love travelling.

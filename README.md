@@ -13,6 +13,6 @@ Hello, my name is Vikash Kumar. l am a software engineer with 4 years of experie
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vikash-frontier&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-frontier&layout=compact&theme=tokyonight)
+![Top L(https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-frontier&layout=compact&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
